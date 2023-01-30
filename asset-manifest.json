@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2eb744f6.css",
+    "main.js": "/static/js/main.6691426e.js",
+    "static/media/bannerImg.png": "/static/media/bannerImg.1811a6d33ddcf407e625.png",
+    "static/media/projectThree.png": "/static/media/projectThree.ccb3fbf9947e14450695.png",
+    "static/media/projectOne.png": "/static/media/projectOne.52b599524e6a4cc4e423.png",
+    "static/media/tow.png": "/static/media/tow.e70285c40a2e2a4ddcfe.png",
+    "static/media/projectTwo.png": "/static/media/projectTwo.a287b9dc24f005a1b834.png",
+    "static/media/one.png": "/static/media/one.8d9e770d50f37590599d.png",
+    "static/media/rahul_pandey_resume.pdf": "/static/media/rahul_pandey_resume.3f0b7a2c187d06b073cf.pdf",
+    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/logo.png": "/static/media/logo.4b4e92e66976574974ed.png",
+    "static/media/testimonialOne.png": "/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/testimonialTwo.png": "/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "index.html": "/index.html",
+    "main.2eb744f6.css.map": "/static/css/main.2eb744f6.css.map",
+    "main.6691426e.js.map": "/static/js/main.6691426e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eb744f6.css",
+    "static/js/main.6691426e.js"
+  ]
+}
